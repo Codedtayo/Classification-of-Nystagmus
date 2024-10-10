@@ -18,6 +18,7 @@ This project provides a workflow for detecting nystagmus by analyzing video fram
 - OpenCV (`cv2`)
 - Matplotlib
 - Google Colab or a local environment with support for Jupyter Notebooks
+- Numpy 
 
 ## Installation
 
