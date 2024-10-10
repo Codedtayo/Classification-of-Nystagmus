@@ -10,7 +10,6 @@ This project provides a workflow for detecting nystagmus by analyzing video fram
 - [Data Source](#data-source)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Requirements
 
@@ -51,6 +50,4 @@ Nystagmus Data: The primary source of data for this analysis was gotten from You
 
 Feel free to contribute to this project by creating pull requests or reporting issues. Make sure to follow the repository's coding style and guidelines.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
