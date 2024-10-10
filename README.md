@@ -21,13 +21,7 @@ This project provides a workflow for detecting nystagmus by analyzing video fram
 
 ## Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/nystagmus-detection.git
-   cd nystagmus-detection
-   ```
-
-2. Install the required libraries:
+- Install the required libraries:
    ```bash
    pip install opencv-python matplotlib
    ```
